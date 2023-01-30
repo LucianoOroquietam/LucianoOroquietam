@@ -1,16 +1,15 @@
-### Hi there 👋
+# console.log("Hola Mundo Soy Luciano 👋👨‍💻");
 
-<!--
-**LucianoOroquietam/LucianoOroquietam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Soy Estudiante de la Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas. Mis conocimientos se basan
+en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:*
 
-Here are some ideas to get you started:
+> **Html,Css(sass),JavaScript.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Php,MySql. Java.**
+
+## Me Podes Contactar por: 
+
+📩 [Mail](Oroquietaluciano@gmail.com).
+💼 [Linkedin](https://www.linkedin.com/in/luciano-oroquieta-merlino-3b6590260/).
+📸 [Instagram](https://www.instagram.com/luuloo.97/).
+		

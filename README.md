@@ -26,7 +26,7 @@ en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguie
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/HTML/HTML-original.svg" height="40" alt="html logo"  />
+  <img src="https://iconos8.es/icon/20909/html-5" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Css/Css-original.svg" height="40" alt="css logo"  />
   <img width="12" />

@@ -3,7 +3,7 @@
 *Soy Estudiante de la Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas. Mis conocimientos se basan
 en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:*
 
-> **Html,Css(sass),JavaScript.**
+> **Html,Css,JavaScript.**
 
 > **Php,MySql. Java.**
 

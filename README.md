@@ -2,31 +2,32 @@
 
 ###
 
-<p align="left">*Soy Estudiante de la Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas. Mis conocimientos se basan
-en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:*</p>
+<p align="left">Soy Estudiante de la Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas. Mis conocimientos se basan
+en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"></h2>
 
 ###
 
-<p align="left"> **Html,Css,JavaScript.**
-
-> **Php,MySql. Java.**.</p>
+<p align="left"> 
+	
+>**Html,Css,JavaScript.**
+> **Php,MySql. Java.**. </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Codifico con</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />

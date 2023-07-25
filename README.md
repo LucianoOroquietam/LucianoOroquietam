@@ -49,13 +49,6 @@ en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguie
 * 💼 [Mi Portafolio](https://portafolio-luciano-oroquieta.netlify.app/).
 * 📸 [Instagram](https://www.instagram.com/oroquieta.luciano/).
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 

@@ -51,6 +51,12 @@ en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguie
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 

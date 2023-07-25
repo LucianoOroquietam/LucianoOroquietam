@@ -3,7 +3,13 @@
 ###
 
 <p align="left">Soy Estudiante de la Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas. Mis conocimientos se basan
-en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:</p>
+en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:
+<p align="left"> 
+	
+>**Html,Css,JavaScript.**
+>
+> **Php,MySql. Java.**. </p>
+</p>
 
 ###
 
@@ -18,11 +24,7 @@ en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguie
 <h2 align="left">Codifico con</h2>
 
 ###
-<p align="left"> 
-	
->**Html,Css,JavaScript.**
->
-> **Php,MySql. Java.**. </p>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

@@ -11,17 +11,18 @@ en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguie
 
 ###
 
-<p align="left"> 
-	
->**Html,Css,JavaScript.**
->
-> **Php,MySql. Java.**. </p>
+
 
 ###
 
 <h2 align="left">Codifico con</h2>
 
 ###
+<p align="left"> 
+	
+>**Html,Css,JavaScript.**
+>
+> **Php,MySql. Java.**. </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

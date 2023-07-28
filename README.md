@@ -9,7 +9,8 @@
 ###
 
 <p align="left">Estudiante en la Universidad Nacional Del Centro De La Provincia De Buenos Aires , en la carrera de TUDAI (Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas) en el area de ciencias exactas.
-Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:
+
+	Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:
 <p align="left"> 
 	
 >**Html,Css,JavaScript.**

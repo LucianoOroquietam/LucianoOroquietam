@@ -46,7 +46,7 @@ Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.jsdelivr.com/github.com/reactjs.png" height="40" alt="react logo" height="40" alt="nestjs logo"  />
+  <img src="https://ipaginaweb.com/wp-content/uploads/react-300x300.png" height="40" alt="react logo"  />
   <img width="12" /> 
 
   

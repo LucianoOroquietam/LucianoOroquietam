@@ -52,7 +52,7 @@ Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del 
 ## Me Podes Contactar por: 
 
 * 📩 [Mail](mailto:oroquietaluciano@gmail.com).
-* 💼 [Linkedin](https://www.linkedin.com/in/luciano-oroquieta-merlino-3b6590260/).
+* 💼 [Linkedin](https://www.linkedin.com/in/luciano-oroquieta-9b33582a0/).
 * 💼 [Mi Portafolio](https://portafolio-luciano-oroquieta.netlify.app/).
 * 📸 [Instagram](https://www.instagram.com/oroquieta.luciano/).
 

@@ -47,7 +47,10 @@ Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://ipaginaweb.com/wp-content/uploads/react-300x300.png" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://sass-lang.com/assets/img/logos/logo.svg" height="40" alt="sass logo"  />
   <img width="12" /> 
+
 
   
   

@@ -13,7 +13,7 @@
 Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:
 <p align="left"> 
 	
->**Html,Css,JavaScript.**
+>**Html,Css,JavaScript,React,Sass.**
 >
 > **Php,MySql. Java.** </p>
 </p>
@@ -46,6 +46,7 @@ Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  
 
 </div>
 

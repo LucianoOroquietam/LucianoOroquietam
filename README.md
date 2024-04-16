@@ -13,9 +13,9 @@
 Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del Back-End . Y son las siguientes:
 <p align="left"> 
 	
->**Html,Css,JavaScript,React,Sass.**
+>**Html,Css,JavaScript,React,Sass,Figma**
 >
-> **Php,MySql. Java.** </p>
+> **Php,MySql,postgreSQL. Java.** </p>
 </p>
 
 ###

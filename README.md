@@ -42,7 +42,7 @@ Mis conocimientos se basan en tecnologias tanto del lado del Front-End como del 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOFmjGchTMwQriXqezOovYKqXWK3YXUnFlQ&s" height="40" alt="angular-logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="40" alt="angular-logo" />
   <img width="12" />
   <img src="https://ipaginaweb.com/wp-content/uploads/react-300x300.png" height="40" alt="react logo"  />
   <img width="12" />

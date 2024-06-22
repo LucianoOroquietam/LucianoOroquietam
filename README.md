@@ -60,7 +60,7 @@
 
 * 📩 [Mail](mailto:oroquietaluciano@gmail.com).
 * 💼 [Linkedin](https://www.linkedin.com/in/luciano-oroquieta/).
-* 📸 [Instagram](https://www.instagram.com/oroquieta.luciano/).
+
 
 
 

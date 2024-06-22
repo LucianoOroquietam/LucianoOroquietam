@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://sass-lang.com/assets/img/logos/logo.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img  src="https://www.google.com/imgres?q=figma%20logo&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ffigma.jpg&imgrefurl=https%3A%2F%2Flogowik.com%2Ffigma-vector-logo-4411.html&docid=R7Pb_xQmoCopQM&tbnid=e7rmZ0jNrq96vM&vet=12ahUKEwj6jKS36O- GAxWjrZUCHdyICLEQM3oECB0QAA..i&w=866&h=650&hcb=2&ved=2ahUKEwj6jKS36O-GAxWjrZUCHdyICLEQM3oECB0QAA" height="40" alt="figma logo"  />
+  <img  src=["https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png) height="40" alt="figma logo"  />
  <img width="12" />
 
  

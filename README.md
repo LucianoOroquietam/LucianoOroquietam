@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Estudiante en la Universidad Nacional Del Centro De La Provincia De Buenos Aires , en la carrera de TUDAI (Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas) en el area de ciencias exactas.
+<p align="left">Estudiante y Ayudante de catedra en la Universidad Nacional Del Centro De La Provincia De Buenos Aires. Me encuentro realizando la carrera de TUDAI (Tecnicatura Universitaria En Desarrollo De Aplicaciones Informaticas) en el area de ciencias exactas.
 
 
 ###

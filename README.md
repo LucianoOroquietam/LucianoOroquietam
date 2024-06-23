@@ -27,6 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
+   <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="40" alt="boostrap logo"  />
+  <img width="12" />
+
+
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="40" alt="angular-logo" />
   <img width="12" />
   <img src="https://ipaginaweb.com/wp-content/uploads/react-300x300.png" height="40" alt="react logo"  />

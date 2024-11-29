@@ -45,7 +45,7 @@
 
 <h2 align="left">🌟 Proyectos Destacados</h2>
 
-### 🎮 Proyectos de Juegos Interactivos
+### 🎮 Proyectos Frontend-Diseño-UX/UI-Animaciones-Juego interactivo
 - [**Game Box**](https://github.com/LucianoOroquietam/Interfaces-TPE-Grupo2):Diseño Frontend creada desde cero siguiendo principios de diseño UX/UI.
 
   ✏️ **Diseño**: Conceptualizado en Figma y trasladado a código con un estilo minimalista.  

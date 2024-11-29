@@ -42,6 +42,46 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" style="margin-right: 10px;" />
 </div>
 
+
+<h2 align="left">🌟 Proyectos Destacados</h2>
+
+### 🎮 Proyectos de Juegos Interactivos
+- [**Game Box**](https://github.com/LucianoOroquietam/Interfaces-TPE-Grupo2):Diseño Frontend creada desde cero siguiendo principios de diseño UX/UI.
+
+  ✏️ **Diseño**: Conceptualizado en Figma y trasladado a código con un estilo minimalista.  
+  🕹️ **Funcionalidades**: Incluye un juego de "4 en línea" con lógica personalizada y animaciones en canvas.  
+  🌟 **Efectos Visuales**: Página con animaciones avanzadas como parallax, interacciones con el mouse (mousemove) e imágenes 3D.  
+  🌐 **Integración**: Implementación de un servidor y APIs del DOM para una experiencia dinámica.
+
+### 🌐 Proyectos Web
+- [**Tienda de Cerveza**](https://github.com/LucianoOroquietam/proyecto-angular): Plataforma e-commerce ficticia hecha con Angular, utilizando una API para mostrar cervezas dinámicamente. Implementación de localStorage para la verificación de edad y compra simulada con recarga de página.
+
+### 📋 Microservicios y Backend
+- [**Microservicios**](https://github.com/LucianoOroquietam/Microservicios-Spring-boot): Proyecto inicialmente desarrollado en Spring Boot de manera monolítica para gestionar carreras y estudiantes, luego se implementó una arquitectura de microservicios con Spring Boot, utilizando Eureka para la gestión de servicios.
+
+  🌍 **Arquitectura**: Cada microservicio se gestiona de manera independiente y se comunica a través de Eureka, un servidor de descubrimiento de servicios. Los servicios incluyen:
+  - **EurekaServiceApplication**: Servidor de descubrimiento que permite a los microservicios registrarse y descubrirse entre sí.
+  - **MicroservicioReportsApplication** (puerto 8082): Servicio de generación de reportes.
+  - **MicroservicioStopsApplication** (puerto 8081): Servicio que gestiona paradas o estaciones.
+  - **MicroservicioTravelsApplication** (puerto 8080): Servicio que maneja información de viajes.
+  - **MicroservicioUsersApplication** (puerto 8083): Servicio que gestiona información de usuarios.
+
+  🐳 **Despliegue**: Cada microservicio tiene su propia base de datos y configuración de Docker, lo que permite un despliegue aislado y flexible de cada componente.
+
+
+### 📡 API RESTful con PHP y SQL
+- [**API RESTful PHP**](https://github.com/LucianoOroquietam/api-rest-full): Desarrollo de una API RESTful utilizando PHP, siguiendo el patrón MVC para organizar el código de manera eficiente.
+
+  💻 **Backend**: La API está construida sobre el patrón Modelo-Vista-Controlador (MVC), separando las responsabilidades para facilitar el mantenimiento y escalabilidad del proyecto. El modelo interactúa con la base de datos SQL, mientras que el controlador maneja las peticiones y las vistas devuelven los datos en formato JSON.
+
+  🗄️ **Base de Datos**: Se utiliza una base de datos SQL para almacenar y gestionar los recursos. Las operaciones de CRUD (Crear, Leer, Actualizar, Eliminar) se realizan a través de consultas SQL optimizadas.
+
+  🧪 **Testing con Postman**: La API fue testeada exhaustivamente con Postman para garantizar el correcto funcionamiento de todos los endpoints y asegurar que las respuestas sean precisas y eficientes.
+
+  🔧 **Tecnologías**: PHP, MySQL, MVC, JSON, Postman.
+
+
+
 <h2 align="left">Me podés contactar por:</h2>
 <ul>
   <li>📩 <a href="mailto:oroquietaluciano@gmail.com">Mail</a></li>

@@ -4,7 +4,7 @@
 
 <h1 align="left">console.log("Hola Mundo Soy Luciano 👋👨‍💻");</h1>
 
-<p align="left">Estudiante y Ayudante de cátedra en la Universidad Nacional del Centro de la Provincia de Buenos Aires. Me encuentro realizando la carrera de TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas) en el área de ciencias exactas.</p>
+<p align="left">Tecnico universitario en desarrollo de aplicaciones informaticas y Ayudante de cátedra en la Universidad Nacional del Centro de la Provincia de Buenos Aires. En el área de ciencias exactas.</p>
 
 <h2 align="left">Codifico con</h2>
 

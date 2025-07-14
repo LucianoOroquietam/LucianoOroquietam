@@ -1,8 +1,11 @@
-<div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif" alt="Luciano GIF" />
-</div>
 
-<h1 align="center">console.log("Hola Mundo, soy Luciano 👋👨‍💻");</h1>
+<h1 align="center">console.log(¡Hola! 👋 Soy Luciano Oroquieta)</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Desarrollador+Web+Full+Stack&repeat=false" alt="Typing SVG" />
+</p>
+
+
 
 <p align="center">
   Técnico universitario en desarrollo de aplicaciones informáticas <br/>
@@ -112,4 +115,4 @@ E-commerce ficticio hecho en Angular con verificación de edad y almacenamiento 
 
 ---
 
-<p align="center">🚀 ¡Nos vemos en el código!</p>
+

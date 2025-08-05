@@ -69,45 +69,10 @@ Me apasiona el desarrollo web y enseñar programación. Siempre busco aprender a
 
 <!-- Herramientas -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" />
 </div>
 
 ---
-
-## 🌟 Proyectos Destacados
-
-### 🎮 Game Box
-[🔗 Ver repositorio](https://github.com/LucianoOroquietam/Interfaces-TPE-Grupo2)  
-🎨 **Diseño**: Figma + código real  
-🧠 **Lógica**: Juego de 4 en línea  
-🌈 **Animaciones**: Parallax, mousemove, imágenes 3D  
-🔗 **Integración**: DOM + servidor
-
----
-
-### 🛒 Tienda de Cerveza
-[🔗 Ver repositorio](https://github.com/LucianoOroquietam/proyecto-angular)  
-E-commerce ficticio hecho en Angular con verificación de edad y almacenamiento local.
-
----
-
-### 🧩 Microservicios con Spring Boot
-[🔗 Ver repositorio](https://github.com/LucianoOroquietam/Microservicios-Spring-boot)  
-✔️ Separación por servicios  
-✔️ Eureka como Service Discovery  
-✔️ Docker + BDD por microservicio
-
----
-
-### 📡 API RESTful PHP
-[🔗 Ver repositorio](https://github.com/LucianoOroquietam/api-rest-full)  
-✔️ MVC  
-✔️ CRUD con SQL  
-✔️ Postman para testing
-
----
-
 ## 📬 Contacto
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oroquietaluciano@gmail.com)

@@ -23,10 +23,6 @@ Me apasiona el desarrollo web y enseñar programación. Siempre busco aprender a
 - 🎓 Ayudante de cátedra en la Facultad de Ciencias Exactas - UNICEN.
 - 🤝 Disfruto colaborando en equipo y resolviendo problemas reales.
 
----
-
-
----
 
 ## 🚀 Tecnologías que uso
 

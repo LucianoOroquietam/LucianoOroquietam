@@ -27,29 +27,13 @@ Me apasiona el desarrollo web y enseñar programación. Siempre busco aprender a
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LucianoOroquietam&show_icons=true&theme=radical&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoOroquietam&show_icons=true&theme=radical" />
   <br/>
-
-  <!-- GitHub Streak (DOMINIO NUEVO) -->
-  <img
-    src="https://streak-stats.demolab.com?user=LucianoOroquietam&theme=radical"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=LucianoOroquietam&theme=radical" />
   <br/>
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoOroquietam&layout=compact&theme=radical&cache_seconds=1800"
-    alt="Top Languages"
-  />
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoOroquietam&layout=compact&theme=radical" />
+</p>
 
 
 ---

@@ -128,24 +128,6 @@ Me interesa trabajar en proyectos donde pueda combinar desarrollo, automatizaci�
 - Documentación técnica y diseño de soluciones para sistemas reales.
 
 ---
-
-## 📌 Actualmente enfocado en
-
-- Ingeniería de automatizaciones.
-- Agentes y asistentes de inteligencia artificial.
-- Integración de IA en aplicaciones web.
-- Automatización con n8n, APIs y servicios externos.
-- Arquitecturas backend para soluciones inteligentes.
-- Desarrollo full stack aplicado a productos y sistemas empresariales.
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucianoOroquietam&theme=dark&hide_border=true" />
-</p>
-
----
 ## 📬 Contacto
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oroquietaluciano@gmail.com)

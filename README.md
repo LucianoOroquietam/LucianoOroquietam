@@ -32,7 +32,7 @@ También disfruto enseñar programación y acompañar a otros en su proceso de a
 - 🎓 Técnico universitario en desarrollo de aplicaciones informáticas.
 - 🎓 Ayudante de cátedra en la Facultad de Ciencias Exactas - UNICEN.
 - 🤝 Me gusta colaborar en equipo y transformar ideas en soluciones funcionales.
-
+- 
 ---
 
 ## 🚀 Stack y herramientas que uso
@@ -100,83 +100,50 @@ Tecnologías que utilizo para desarrollo web, automatización, integración de s
 </div>
 
 ---
+## 🤖 IA, automatización y agentes
 
-## 🤖 Automatización, IA y agentes
-
-Trabajo con herramientas y tecnologías orientadas a automatización de procesos, integración de servicios, agentes inteligentes e inteligencia artificial aplicada.
+Trabajo en soluciones que combinan inteligencia artificial, automatización e integración de sistemas.
 
 - Agentes de IA y asistentes inteligentes.
-- Automatización de flujos con n8n.
-- Integración con APIs externas.
-- Sistemas conversacionales.
-- Automatización de tareas repetitivas.
-- Procesamiento de datos y lógica backend.
-- Integración de modelos de IA en aplicaciones reales.
-- Uso de modelos locales y cloud mediante Ollama.
-- Uso de Claude Code para desarrollo asistido, análisis de proyectos, generación de código y flujos agénticos.
-- Uso de OpenAI para asistentes inteligentes, modelos conversacionales e integración de IA en sistemas.
-- Diseño de soluciones que combinan backend, IA, automatización y experiencia de usuario.
-
----
-
-## 🧠 Herramientas de IA que utilizo
-
-- Claude Code para desarrollo asistido, análisis de código, refactorización, documentación y trabajo con flujos agénticos.
-- Ollama para ejecutar, probar y conectar modelos locales o cloud en entornos de desarrollo.
-- OpenAI para integración de modelos de lenguaje, asistentes inteligentes y sistemas conversacionales.
-- n8n para automatización de procesos e integración entre servicios.
-- APIs de IA para construir soluciones aplicadas a productos reales.
-- Modelos locales y cloud para experimentación, asistencia técnica y automatización de tareas.
-
----
-
-## ⚙️ Áreas de interés
-
-- Automatización de procesos.
-- Inteligencia artificial aplicada.
-- Agentes autónomos y asistentes inteligentes.
-- Desarrollo web full stack.
-- Integración de APIs y servicios externos.
-- Backend, bases de datos y arquitectura de sistemas.
-- WebSockets y comunicación en tiempo real.
-- Sistemas internos para empresas.
-- Docencia y formación técnica.
-- Herramientas de productividad para equipos técnicos.
+- Automatización de procesos y flujos con n8n.
+- Integración de APIs, servicios externos y modelos de IA.
+- Sistemas conversacionales y aplicaciones con IA aplicada.
+- Modelos locales y cloud mediante Ollama y APIs de IA.
+- Desarrollo de soluciones que combinan backend, automatización y experiencia de usuario.
 
 ---
 
 ## 🧩 Perfil técnico
 
-Me gusta trabajar en proyectos donde pueda combinar distintas áreas:
+Me interesa trabajar en proyectos donde pueda combinar desarrollo, automatización e inteligencia artificial.
 
-- Frontend moderno con Angular, React y TypeScript.
+- Frontend con Angular, React y TypeScript.
 - Backend con Node.js, Express, Python, FastAPI, Java y Spring.
 - Bases de datos relacionales y no relacionales.
-- Automatización de procesos con herramientas low-code/no-code y código personalizado.
-- Integración de servicios externos mediante APIs REST.
-- Sistemas con IA aplicada a problemas reales.
-- Uso de Claude Code para acelerar desarrollo, revisar código y estructurar proyectos.
-- Uso de Ollama para trabajar con modelos locales/cloud y experimentar con distintos LLMs.
-- Despliegue de aplicaciones usando Docker, servidores Linux y herramientas cloud.
-- Documentación técnica clara para equipos y usuarios.
+- APIs REST, WebSockets e integración de servicios.
+- Automatización con n8n y código personalizado.
+- Docker, Linux y despliegue de aplicaciones.
+- Uso de Claude Code como herramienta de desarrollo asistido y flujos agénticos.
+- Uso de Ollama para experimentar con modelos locales y cloud.
+- Documentación técnica y diseño de soluciones para sistemas reales.
 
 ---
 
 ## 📌 Actualmente enfocado en
 
 - Ingeniería de automatizaciones.
-- Agentes de inteligencia artificial.
-- Integración de IA en sistemas web.
-- Desarrollo full stack aplicado a soluciones empresariales.
+- Agentes y asistentes de inteligencia artificial.
+- Integración de IA en aplicaciones web.
 - Automatización con n8n, APIs y servicios externos.
-- Arquitecturas backend para asistentes inteligentes.
-- Uso de Claude Code para desarrollo asistido por IA.
-- Uso de Ollama para trabajar con modelos locales y cloud.
-- Experimentación con modelos de IA aplicados a flujos reales de trabajo.
-- Mejora continua en backend, integraciones, documentación y arquitectura de sistemas.
-
+- Arquitecturas backend para soluciones inteligentes.
+- Desarrollo full stack aplicado a productos y sistemas empresariales.
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LucianoOroquietam&theme=dark&hide_border=true" />
+</p>
+
+---
 ## 📬 Contacto
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oroquietaluciano@gmail.com)
